@@ -1,5 +1,5 @@
 # unsupervised-analysis
-This repository is intended for analyzing data representing the percentage of employees in different industries in European countries during 1979. The purpose of examining this data is to obtain information on employment patterns (if any) among European countries in the 1970s. In order for us to understand and find patterns, we are going to use unsupervised analysis methods.
+This repository is intended for analyzing data representing the percentage of employees in different industries in European countries during 1979. The purpose of examining this data is to obtain information on employment patterns among European countries in the 1970s. In order for us to understand and find patterns, we are going to use unsupervised analysis methods.
 
 Variables:
 
