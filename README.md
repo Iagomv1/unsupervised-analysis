@@ -12,4 +12,4 @@ Variables:
 - SI: Percentage employed in service industries;
 - Fin: Percentage employed in finance;
 - SPS: Percentage employed in social and personal services;
-- VTC: Percentage employed in transport and communications.
+- TC: Percentage employed in transport and communications.
